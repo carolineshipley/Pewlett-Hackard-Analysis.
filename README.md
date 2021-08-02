@@ -10,9 +10,9 @@ In the first table information such as employee number, first name, last name, p
 In the second table information such as employee number, first name, last name, birth date, start and end date and position title was included.
 
 ## Results
-Here is the first table, that determines the number of retiring employees and their position titles: [retiring_titles.csv]()
+Here is the first table, that determines the number of retiring employees and their position titles: [retiring_titles.csv](https://github.com/carolineshipley/Pewlett_Hackard_Analysis/blob/main/Data/retiring_titles.csv)
 
-Here is the second table, that identifies employees who are eligible for the mentorship program: [mentorship_eligibility.csv]()
+Here is the second table, that identifies employees who are eligible for the mentorship program: [mentorship_eligibility.csv](https://github.com/carolineshipley/Pewlett_Hackard_Analysis/blob/main/Data/mentorship_eligibility.csv)
 
 From the results of these two tables, we can conclude that: 
 1. Almost a third of the employees reaching retirement are Senior Engineers, while another third includes the Senior Staff 
