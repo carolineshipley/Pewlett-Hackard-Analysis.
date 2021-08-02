@@ -17,8 +17,8 @@ Here is the second table, that identifies employees who are eligible for the men
 From the results of these two tables, we can conclude that: 
 1. Almost a third of the employees reaching retirement are Senior Engineers, while another third includes the Senior Staff 
 2. Senior Engineer and Senior Staff positions should have higher priority to refill 
-3. From the employees that are retiring, there are 1,549 employees that qualify for the mentorship program. 
-4. There are more employees retiring than potential mentors, so most likely each mentor will be training multiple people to fill these new positions.
+3. From the employees that are retiring, there are 1,549 employees that qualify for the mentorship program
+4. There are more employees retiring than potential mentors, so most likely each mentor will be training multiple people to fill these new positions
 
 ## Summary
 To determine how many roles will need to be filled as the "silver tsunami" starts to impact the company, we can create a query to group the employees reaching retirement age by birth year. With that said, the company can have more visibility on how many positions they will need to fill each year. We already created a list of people who were born between 1952 and 1955, considering retirement age as 65. As a result we would have a hiring quota for each of the following four years.
